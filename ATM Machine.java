@@ -85,7 +85,7 @@ class ATM {
             }
         }
 
-        scanner.close();
+         scanner.close();
     }
 }
 
